@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "mario";
+    src:url("../other/Triforce.ttf");
+}
+
+body{
+    font-family: 'Triforce', 'Times New Roman', Times, serif;
+    background: url(../images/back.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.piccontain{
+    float: left;
+    border: solid;
+    border-color: teal;
+    border-width: 5px;
+    max-width: 200px;
+}
+
+h3{
+    background-color: white;
+    border: solid;
+    border-color: teal;
+    border-width: 5px;
+}
+h1{
+    background-color: white;
+    border: solid;
+    border-color: teal;
+    border-width: 5px;
+}
+p{
+    background-color: white;
+    border: solid;
+    border-color: teal;
+    border-width: 5px;
+}
